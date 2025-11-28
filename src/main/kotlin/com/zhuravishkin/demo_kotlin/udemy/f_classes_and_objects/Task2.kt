@@ -1,0 +1,11 @@
+package com.zhuravishkin.demo_kotlin.udemy.f_classes_and_objects
+
+/*
+Напишите класс круга (Round) с полем radius (радиус), инициализирующимся через конструктор.
+Добавьте в него функции, которые будут считать площадь (Math.PI* radius * radius) и длину окружности (2*Math.PI*radius)
+Создайте объект класса Round и проверьте работоспособность написанных функций
+*/
+
+fun main() {
+
+}
