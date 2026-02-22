@@ -57,3 +57,7 @@ tasks.withType<Test> {
 tasks.bootBuildImage {
 	runImage = "paketobuildpacks/ubuntu-noble-run-base:latest"
 }
+
+springBoot {
+	mainClass.set("com.zhuravishkin.demo_kotlin.DemoKotlinApplicationKt")
+}
