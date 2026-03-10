@@ -13,4 +13,7 @@ fun main() {
         select *
         from table;
     """
+
+    println("a:\n$a")
+    println("b:\n$b")
 }
